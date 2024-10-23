@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iumposped.github.io/iumposped.iumposped
+Sitemap: https://iumposped.github.io/app/iumposped.iumposped
+Sitemap: https://iumposped.github.io/assets/iumposped.iumposped
+Sitemap: https://iumposped.github.io/css/iumposped.iumposped
+Sitemap: https://iumposped.github.io/includes/iumposped.iumposped
+Sitemap: https://iumposped.github.io/item/iumposped.iumposped
+Sitemap: https://iumposped.github.io/src/iumposped.iumposped
